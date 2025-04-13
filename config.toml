@@ -1,7 +1,7 @@
 baseURL = "https://toninif.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Web de Fernando Tonini"
+title = "Bienvenidxs"
 author = "Fernando Tonini"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -177,11 +177,7 @@ enableEmoji = true
     title = "Ponete en contacto"
     url = "/contact/"
     weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
+
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
