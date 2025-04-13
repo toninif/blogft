@@ -1,8 +1,8 @@
 baseURL = "https://www.example.org/"
 theme = "hugo-apero"
-languageCode = "en"
-title = "Hugo Apéro"
-author = "Alison Hill"
+languageCode = "es"
+title = "Web de Fernando Tonini"
+author = "Fernando Tonini"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 #disqusShortname = "" # see params.comments to use utterances or giscus instead of Disqus
