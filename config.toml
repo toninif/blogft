@@ -1,6 +1,6 @@
 baseURL = "https://www.example.org/"
 theme = "hugo-apero"
-languageCode = "es"
+languageCode = "en"
 title = "Web de Fernando Tonini"
 author = "Fernando Tonini"
 copyright = "" # set to override the auto generated copyright using org info and now year
