@@ -32,7 +32,7 @@ enableEmoji = true
   orgName = "Fernando Tonini"
   orgLocal = "Argentina"
   description = "Esta es mi página web laboral."
-  favicon = "/img/favicon.ico"
+  favicon = "/img/icono_interino.ico"
   logo = "/img/icono_interino.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
@@ -49,7 +49,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
-  theme = "sky"
+  theme = "forest"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -106,27 +106,23 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+      url       = "https://github.com/toninif"
   [[params.social]]
       icon      = "bluesky" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://bsky.app/"
+      url       = "https://bsky.app/profile/toninif.bsky.social"
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://www.instagram.com/fer.tonini/"
   [[params.social]]
       icon      = "x-twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
-  [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+      url       = "https://twitter.com/toninifer"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
+      url       = "https://orcid.org/0000-0001-6435-8923"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
@@ -140,22 +136,22 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
-    title = "About Blogophonic"
+    name = "Sobre mí"
+    title = "Información sobre mi"
     url = "/about/"
     weight = 1
   [[menu.header]]
     name = "Blog"
-    title = "Blog"
+    title = "Algunas historias"
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
+    name = "Publicaciones"
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
+    name = "Congresos"
     title = "Talks"
     url = "/talk/"
     weight = 4
@@ -177,8 +173,8 @@ enableEmoji = true
     url = "/license/"
     weight = 1
   [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
+    name = "Contacto"
+    title = "Ponete en contacto"
     url = "/contact/"
     weight = 2
   [[menu.footer]]
