@@ -6,10 +6,11 @@ description: En esta página voy a ir subiendo mis publicaciones, presentaciones
 image_left: true
 images:
 - img/bienvenida_atti.png
+image_left: false
 show_action_link: true
 show_social_links: true
 subtitle: Bienvenidxs a mi web laboral
-text_align_left: false
+text_align_left: true
 title: Fernando Tonini, PhD
 type: home
 ---
