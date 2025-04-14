@@ -10,7 +10,7 @@ show_action_link: true
 show_social_links: true
 subtitle: Bienvenidxs a mi web laboral
 text_align_left: false
-title: Fernando Tonini, Ph. D
+title: Fernando Tonini, PhD
 type: home
 ---
 
