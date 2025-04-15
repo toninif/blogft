@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ANET on Bienvenidxs</title>
+    <link>https://toninif.netlify.app/tags/anet/</link>
+    <description>Recent content in ANET on Bienvenidxs</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://toninif.netlify.app/tags/anet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Textos Afectivos: Información extra</title>
+      <link>https://toninif.netlify.app/blog/presentacion_anet/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://toninif.netlify.app/blog/presentacion_anet/</guid>
+      <description>&lt;p&gt;Este póster fue presentado en [nombre del evento] y muestra los resultados de la adaptación rioplatense del ANET.&lt;br&gt;&#xA;Exploramos diferencias en activación, dominancia y valencia según edad, sexo y tipo de texto.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/poster-preview.png&#34; alt=&#34;Miniatura del póster&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
