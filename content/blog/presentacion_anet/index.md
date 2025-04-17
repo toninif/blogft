@@ -13,7 +13,8 @@ tags:
   - presentaciones
 ---
 
-Este póster fue presentado en [nombre del evento] y muestra los resultados de la adaptación rioplatense del ANET.  
-Exploramos diferencias en activación, dominancia y valencia según edad, sexo y tipo de texto.
+Este póster fue presentado en el Encuentro de Grupos de Investigación sobre Procesamiento del Lenguaje `ProLen 2025` y muestra los resultados de la adaptación rioplatense del ANET.
 
-![Miniatura del póster](images/poster-preview.png)
+[Hace click aca para descargar el poster!](https://drive.google.com/uc?id=10cACUbR9Erb0B-PoaGKkeMe1Orxb8caL&export=download)
+
+![](miniatura_poster.png)
