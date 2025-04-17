@@ -18,3 +18,5 @@ Este póster fue presentado en el Encuentro de Grupos de Investigación sobre Pr
 [Hace click aca para descargar el poster!](https://drive.google.com/uc?id=10cACUbR9Erb0B-PoaGKkeMe1Orxb8caL&export=download)
 
 ![](miniatura_poster.png)
+
+# El modelo
