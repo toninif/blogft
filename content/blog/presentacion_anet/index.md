@@ -43,21 +43,19 @@ Reclutamos a 220 voluntarios argentinos (113 en el conjunto A y 107 en el conjun
 
 -   **Textos ANET traducidos y adaptados**: Utilizamos 120 fragmentos breves agrupados en dos juegos de 60 (set A con descripciones más concisas e implícitas, set B con versiones más detalladas y explícitas). Algunos textos:
 
-````         
-```         
-Saltás y bloqueás la pelota de vóley en la red, ganando el juego.
+        
+> Saltás y bloqueás la pelota de vóley en la red, ganando el juego.
 
-Estas sentado en el sillón con el control remoto, pasás por los canales de televisión sin ningún propósito.
+> Estas sentado en el sillón con el control remoto, pasás por los canales de televisión sin ningún propósito.
 
-El perro se inclina hacia adelante, gruñendo, y de repente salta hacia vos.
+> El perro se inclina hacia adelante, gruñendo, y de repente salta hacia vos.
 
-----------------------------------------------------
+Aquí un ejemplo del texto en sus dos versiones:
 
-Versión implícita: Acabaste de ganar 10 millones de dólares; saltás efusivamente, gritando.
+> Versión implícita: Acabaste de ganar 10 millones de dólares; saltás efusivamente, gritando.
 
-Versión explícita: Te informan que "¡acabas de ganar diez millones de dólares!" Es increíble: compraste el boleto ganador en la lotería. ¡Lloras, gritas y saltas de alegría! 
-```
-````
+> Versión explícita: Te informan que "¡acabas de ganar diez millones de dólares!" Es increíble: compraste el boleto ganador en la lotería. ¡Lloras, gritas y saltas de alegría! 
+
 
 -   **SAM (Self-Assessment Manikin)**: Empleamos las escalas pictóricas de 9 puntos para registrar, en cada texto, las valoraciones de valencia (agradable--desagradable), activación (calma--excitación) y dominancia (sumisión--control).
 

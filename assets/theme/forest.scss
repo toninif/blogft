@@ -19,3 +19,23 @@ $buttonHoverTextColorCustom: #FAF9F0;
 $buttonBgColorCustom: #5D987B;
 $buttonHoverBgColorCustom: #558B71;
 $borderColorCustom: #DDDDCF;
+
+blockquote {
+  border-left: 4px solid #888;
+  background: #f9f9f9;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: #555;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+blockquote footer {
+  margin-top: 0.5rem;
+  text-align: right;
+  font-size: 0.9rem;
+  color: #333;
+}

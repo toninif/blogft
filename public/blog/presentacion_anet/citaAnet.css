@@ -1,0 +1,19 @@
+blockquote {
+  border-left: 4px solid #888;    /* línea de acento */
+  background: #f9f9f9;            /* fondo suave */
+  padding: 1em 1.5em;             /* espacio interior */
+  margin: 1.5em 0;                /* separación arriba y abajo */
+  font-style: italic;             /* cursiva */
+  color: #555;                    /* tono de texto */ 
+}
+
+blockquote p {
+  margin: 0;                      /* quita márgenes extra */
+}
+
+blockquote footer {
+  margin-top: 0.5em;
+  text-align: right;
+  font-size: 0.9em;
+  color: #333;
+}
