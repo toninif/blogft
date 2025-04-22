@@ -14,10 +14,11 @@ tags:
 ---
 
 Este póster fue presentado en el Encuentro de Grupos de Investigación sobre Procesamiento del Lenguaje `ProLen 2025` y muestra los resultados de la adaptación rioplatense del ANET.
+Autores: Dra. Natalia Irrazabal y Dr. Fernando Tonini
 
-[Hace click aca para descargar el poster!](https://drive.google.com/uc?id=10cACUbR9Erb0B-PoaGKkeMe1Orxb8caL&export=download)
+[Hace click aca para descargar el poster!](https://drive.google.com/uc?id=1aScoukk5AfywedqNu4_hKH8meRl64Nks&export=download)
 
-![](miniatura_poster.png)
+![](miniatura_prolen.png)
 
 # El modelo
 
