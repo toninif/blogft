@@ -11,14 +11,23 @@ tags:
   - activación
   - emociones
   - presentaciones
+links:
+- icon: github
+  icon_pack: fab
+  name: Código que usamos
+  url: https://github.com/toninif/poster_prolen2025
 ---
 
 Este póster fue presentado en el Encuentro de Grupos de Investigación sobre Procesamiento del Lenguaje `ProLen 2025` y muestra los resultados de la adaptación rioplatense del ANET.
-Autores: Dra. Natalia Irrazabal y Dr. Fernando Tonini
+
+Autores: `Dra. Natalia Irrazabal` y `Dr. Fernando Tonini`
 
 [Hace click aca para descargar el poster!](https://drive.google.com/uc?id=1aScoukk5AfywedqNu4_hKH8meRl64Nks&export=download)
 
 ![](miniatura_prolen.png)
+
+Tambíen podes mirar el código que usamos para hacerlo
+
 
 # El modelo
 
