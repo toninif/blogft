@@ -1,7 +1,8 @@
 ---
 title: "Tutorial: Nube de Palabras con `wordcloud2`"
-format: html
-editor: visual
+format: 
+  html:
+    self-contained: true
 ---
 
 # Introducción
@@ -74,7 +75,7 @@ wordcloud2(
 )
 ```
 
-> **Tip:** Puedes cambiar `size`, `color`, `backgroundColor` e incluso el `shape` (por ejemplo, `shape = "star"`) para personalizar tu nube.
+> **Tip:** Se puede cambiar `size`, `color`, `backgroundColor` e incluso el `shape` (por ejemplo, `shape = "star"`) para personalizar tu nube.
 
 # 6. Personalización avanzada
 
@@ -94,7 +95,7 @@ wordcloud2(tokens,
 
 # Conclusión
 
-¡Listo! Has aprendido a crear y personalizar una nube de palabras en R con `wordcloud2`. Este tutorial es ideal para tu blog y puede adaptarse a cualquier corpus de texto.
+Y ya esta! Así se hace una nube de palabras en R con `wordcloud2`.
 
 ---
 **Referencias**
