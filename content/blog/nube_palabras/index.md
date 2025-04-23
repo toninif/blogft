@@ -1,16 +1,16 @@
 ---
-author: Fernando Tonini
 title: 'Tutorial: Nube de Palabras con `wordcloud2`'
+author: "Fernando Tonini"
+date: "2025-04-15"
 excerpt: Así se puede hacer una nube de palabras.
-date: '2025-04-15'
 slug: []
 categories: []
 tags:
-  - texto
-  - tutoriales
-  - nubes
-  - palabras
-  - wordclud
+- texto
+- tutoriales
+- nubes
+- palabras
+- wordclud
 ---
 
 # Introducción
