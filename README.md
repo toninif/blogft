@@ -1,5 +1,7 @@
 # blogft
 
+Este es el repo de mi web laboral.
+
 ¿El sitio está actualizado? 
 
 
